@@ -1762,4 +1762,4 @@ client.on('messageDelete', message => {
 });
 
 
-client.login('NDIxMDQ4NzY0OTg0MTk3MTMw.DYHkdw.OXfPhhtQNcVbF2o-ZIxh3oVj_FA');
+client.login('Token Goes Here');
